@@ -33,7 +33,7 @@
 Вот несколько проектов, которые хорошо отражают мои навыки:
 
 - **[My-dots](https://github.com/bopsifox/My-dots)** - Мои доты.
-- **[My-Neovim-dots](https://github.com/bopsifox/My-Neovim-dots)** - Мои доты для Neovim.
+- **[My-Neovim-dots](https://github.com/bopsifox/nvim-dots)** - Мои доты для Neovim.
 
 
 ---
