@@ -1,8 +1,8 @@
-<h1 align="center">👋 Привет, я Денис (bopsifox)!</h1>
-<h3 align="center">Python-разработчик и инженер из Екатеринбурга</h3>
+<h1 align="center">👋 Привет, я Павел (bopsifox)!</h1>
+<h3 align="center">Backend-разработчик на Go из Санкт-Петербурга</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F77B&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Django+Django+REST;Linux+%26+Docker;Люблю+автоматизировать+всё" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F77B&center=true&vCenter=true&width=435&lines=Golang+Backend+Developer;High+Performance+Systems;Linux+%26+Docker;Люблю+автоматизировать+всё" alt="Typing SVG" /></a>
 </p>
 
 ---
@@ -10,19 +10,12 @@
 ### 🛠️ Мой Tech Stack
 
 **Backend:**
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F77B&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Golang+Developer;Django+Django+REST;Linux+%26+Docker;Люблю+автоматизировать+всё" alt="Typing SVG" /></a>
-</p>
-
-**Базы данных:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 **Инфраструктура & Инструменты:**
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 ---
 
@@ -39,10 +32,9 @@
 
 Вот несколько проектов, которые хорошо отражают мои навыки:
 
-- **[Django Blog](https://github.com/bopsifox/django_blog)** - Полнофункциональный блог на Django с системой пользователей, статьями и тегами.
-- **[Parser Avito](https://github.com/bopsifox/parser_avito)** - Парсер объявлений с Avito для анализа рынка.
-- **[FastAPI Template](https://github.com/bopsifox/fastapi_template)** - Шаблон для быстрого старта проектов на FastAPI с Docker.
-- **[Telegram Weather Bot](https://github.com/bopsifox/tg_weather_bot)** - Телеграм-бот для получения прогноза погоды.
+- **[Go Microservice Template](https://github.com/bopsifox/go-microservice-template)** - Шаблон микросервиса на Go с Gin и контейнеризацией.
+- **[High Performance API](https://github.com/bopsifox/high-performance-api)** - Высокопроизводительное API на Go с использованием горутин.
+- **[Dockerized Go App](https://github.com/bopsifox/dockerized-go-app)** - Пример приложения на Go с полной Docker-контейнеризацией.
 
 > 💡 *Больше интересных проектов ты найдешь в моих репозиториях.*
 
@@ -57,7 +49,6 @@
   <a href="https://t.me/bopsifox">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <!-- Можно добавить ссылку на LinkedIn или HH, если есть -->
 </p>
 
 <p align="center">
