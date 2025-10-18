@@ -2,8 +2,7 @@
 <h3 align="center">Я изучаю Go и Linux</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F77B&center=true&vCenter=true&width=435&lines=Golang+Backend+Developer;High+Performance+Systems;Linux+%26+Docker;Люблю+автоматизировать+всё" alt="Typing SVG" /></a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=999&pause=1000&color=CAD3F5&background=24273A&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E+Go!" alt="Typing SVG" /></a>
 
 ---
 
