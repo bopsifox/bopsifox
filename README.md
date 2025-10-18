@@ -1,5 +1,5 @@
-<h1 align="center">👋 Привет, я Павел (bopsifox)!</h1>
-<h3 align="center">Backend-разработчик на Go из Санкт-Петербурга</h3>
+<h1 align="center">👋 Привет, я Денис (bopsifox)!</h1>
+<h3 align="center">Я изучаю Go и Linux</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F77B&center=true&vCenter=true&width=435&lines=Golang+Backend+Developer;High+Performance+Systems;Linux+%26+Docker;Люблю+автоматизировать+всё" alt="Typing SVG" /></a>
@@ -43,7 +43,7 @@
 ### 📫 Как со мной связаться
 
 <p align="left">
-  <a href="mailto:pashok.komarov.2000@mail.ru">
+  <a href="kazukiobsidian@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://t.me/bopsifox">
