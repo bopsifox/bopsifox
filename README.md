@@ -32,10 +32,9 @@
 
 Вот несколько проектов, которые хорошо отражают мои навыки:
 
-- **[My-dots]([https://github.com/bopsifox/go-microservice-template](https://github.com/bopsifox/My-dots))** - Мои доты.
+- **[My-dots](https://github.com/bopsifox/My-dots)** - Мои доты.
 - **[My-Neovim-dots]([https://github.com/bopsifox/high-performance-api](https://github.com/bopsifox/My-Neovim-dots))** - Мои доты для Neovim.
 
-> 💡 *Больше интересных проектов ты найдешь в моих репозиториях.*
 
 ---
 
