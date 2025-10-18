@@ -1,4 +1,4 @@
-<h1 align="center"> Привет, я Денис (bopsifox)!</h1>
+<h1 align="center">👋 Привет, я Денис (bopsifox)!</h1>
 <h3 align="center">Я изучаю Go и Linux</h3>
 
 <p align="center">
@@ -13,13 +13,14 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-**Инфраструктура & Инструменты:**
+**Инструменты:**
+
 ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-###  Моя Статистика на GitHub
+### 📈 Моя Статистика на GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bopsifox&show_icons=true&theme=radical&hide_border=true" alt="Статистика bopsifox" width="48%" />
@@ -28,7 +29,7 @@
 
 ---
 
-###  Мои Ключевые Проекты
+### 🚀 Мои Ключевые Проекты
 
 Вот несколько проектов, которые хорошо отражают мои навыки:
 
@@ -38,7 +39,7 @@
 
 ---
 
-###  Как со мной связаться
+### 📫 Как со мной связаться
 
 <p align="left">
   <a href="mailto:kazukiobsidian@gmail.com">
