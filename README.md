@@ -1,5 +1,5 @@
-<h1 align="center">👋 Привет, я Павел (bopsifox)!</h1>
-<h3 align="center">Python-разработчик и инженер из Санкт-Петербурга</h3>
+<h1 align="center">👋 Привет, я Денис (bopsifox)!</h1>
+<h3 align="center">Python-разработчик и инженер из Екатеринбурга</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F77B&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Django+Django+REST;Linux+%26+Docker;Люблю+автоматизировать+всё" alt="Typing SVG" /></a>
@@ -10,10 +10,9 @@
 ### 🛠️ Мой Tech Stack
 
 **Backend:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F77B&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Golang+Developer;Django+Django+REST;Linux+%26+Docker;Люблю+автоматизировать+всё" alt="Typing SVG" /></a>
+</p>
 
 **Базы данных:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
