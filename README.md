@@ -28,6 +28,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bopsifox&show_icons=true&theme=radical&hide_border=true" alt="Статистика bopsifox" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bopsifox&layout=compact&theme=radical&hide_border=true" alt="Топ языков bopsifox" width="41%" />
 </p>
+<p align="center">
+  <img src="https://github.com/bopsifox/bopsifox/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%"/>
+</p>
 
 ---
 
