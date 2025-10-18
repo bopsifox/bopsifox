@@ -10,6 +10,7 @@
 <a href="https://go.dev/" target="_blank">
   <img src="https://camo.githubusercontent.com/29f331ff0b9cd5621d1233c541c575511c7ebb7cd6c09cb18c175c8bc729d14b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676f2d2532333030414444382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676f266c6f676f436f6c6f723d7768697465" alt="Go" style="vertical-align:middle; margin: 0 5px;">
 </a>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
