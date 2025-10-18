@@ -2,7 +2,7 @@ name: GitHub Profile 3D Contrib
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Запускается каждый день в полночь
+    - cron: "0 1 * * *" # Запускается каждый день в полночь
   workflow_dispatch: # Позволяет запускать вручную
 
 jobs:
