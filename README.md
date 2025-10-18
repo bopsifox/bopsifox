@@ -32,9 +32,8 @@
 
 Вот несколько проектов, которые хорошо отражают мои навыки:
 
-- **[Go Microservice Template](https://github.com/bopsifox/go-microservice-template)** - Шаблон микросервиса на Go с Gin и контейнеризацией.
-- **[High Performance API](https://github.com/bopsifox/high-performance-api)** - Высокопроизводительное API на Go с использованием горутин.
-- **[Dockerized Go App](https://github.com/bopsifox/dockerized-go-app)** - Пример приложения на Go с полной Docker-контейнеризацией.
+- **[My-dots]([https://github.com/bopsifox/go-microservice-template](https://github.com/bopsifox/My-dots))** - Мои доты.
+- **[My-Neovim-dots]([https://github.com/bopsifox/high-performance-api](https://github.com/bopsifox/My-Neovim-dots))** - Мои доты для Neovim.
 
 > 💡 *Больше интересных проектов ты найдешь в моих репозиториях.*
 
@@ -43,7 +42,7 @@
 ### 📫 Как со мной связаться
 
 <p align="left">
-  <a href="kazukiobsidian@gmail.com">
+  <a href="mailto:kazukiobsidian@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://t.me/bopsifox">
