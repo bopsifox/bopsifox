@@ -2,7 +2,7 @@
 <h3 align="center">Я изучаю Go и Linux</h3>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=999&pause=1000&color=CAD3F5&background=24273A&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E+Go+%D0%B0+%D1%82%D0%B0%D0%BA%D0%B6%D0%B5+Linux.;%D0%AF+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E+Neovim+%D0%B8+%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E+%D1%82%D0%B5%D0%BC%D1%83+catppuccin+macchiato" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=999&size=25&letterSpacing=&duration=4500&pause=1000&color=CAD3F5&background=24273A&center=true&width=650&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!+%D0%AF+%D0%BB%D1%8E%D0%B1%D0%BB%D1%8E+Go+%D0%B8+Linux.;%D0%AF+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D1%83%D1%8E+Neovim.;%D0%BC%D0%BE%D1%8F+%D0%BB%D1%8E%D0%B1%D0%B8%D0%BC%D0%B0%D1%8F+%D1%82%D0%B5%D0%BC%D0%B0+%D1%8D%D1%82%D0%BE+catppuccin+macchiato." alt="Typing SVG" /></a>
 
 ---
 
